@@ -6,7 +6,6 @@ tres = 3
 quatro = 444
 cinco = 444
 
-
 #Diferentes
 print(um != dois)
 print(dois != tres)
@@ -21,10 +20,6 @@ print(numero)
 
 ####################################################################################
 
-#OUTROS TIPOS DE COMPARAÇÕES mnenor ou maior <>, menor ou igual e maior ou igual <= >=
 
-#Maior que >
-numero = 1
-numero2= 2
 
-print(numero > numero2)
+################################################################################
