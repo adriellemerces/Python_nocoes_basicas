@@ -22,7 +22,7 @@
 Como por exemplo: <br>
 nome = "Maria" <br>
 idade = 28 <br>
-print(f"Olá, meu nome é {nome} e eu tenho {idade} anos.") <br>
+print (f"Olá, meu nome é {nome} e eu tenho {idade} anos.") <br>
 
 
 
