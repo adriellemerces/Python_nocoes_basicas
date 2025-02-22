@@ -11,6 +11,11 @@ print("Em 2025 meu terceiro passeio sera para: " + passeio_03)
 print("Em 2025 meu quarto passeio sera para: " + passeio_04)
 
 ##################################################################################
+#Trbalhando as variaveis
 
-resultado = "No meu primeiro passeio fui ao "+ passeio_01 + " e ao " + passeio_03 +  " com minhas amigas"
+resultado = "No meu primeiro passeio fui ao " + passeio_01 + " e ao " + passeio_03 +  " com minhas amigas"
 print(resultado)
+
+passeios = "Meus colegas preferiram ir ao " + passeio_04 + " ao inves de ir ao " + passeio_02
+print(passeios)
+
