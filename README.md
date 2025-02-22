@@ -2,12 +2,17 @@
 
 <h2>Variáveis</h2>
 <h3>Em Python, as variáveis são usadas para armazenar dados de diferentes tipos, como números, textos e booleanos.
-Exemplo: <br>
-  nome = "João"  # String <br>
-idade = 30  # Inteiro <br>
-altura = 1.80  # Float <br>
-verdadeiro = True  # Booleano <br>
 </h3>
+
+ <h2>Comparações</h2>
+<h3>Python oferece diversos operadores de comparação para verificar relações entre valores:
+</h3>
+==: igual
+!=: diferente
+>: maior que
+<: menor que
+>=: maior ou igual a
+<=: menor ou igual a
 
 
 
