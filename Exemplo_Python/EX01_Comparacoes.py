@@ -18,3 +18,13 @@ print(tres == quatro)
 #Exemplo de comparação utilizando variavel
 numero = um != dois
 print(numero)
+
+####################################################################################
+
+#OUTROS TIPOS DE COMPARAÇÕES mnenor ou maior <>, menor ou igual e maior ou igual <= >=
+
+#Maior que >
+numero = 1
+numero2= 2
+
+print(numero > numero2)
